@@ -11,3 +11,5 @@ gitcreds::gitcreds_set()
 git_vaccinate()
 
 usethis::use_git()
+
+use_github()
