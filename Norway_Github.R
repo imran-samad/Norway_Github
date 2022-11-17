@@ -18,4 +18,4 @@ use_github()# this copies the local repo to your main github profile
 git_default_branch_rename() # use this only the first time to change the 'master' branch to 'main' branch
 git_default_branch_configure(name = "main") # this will ensure all following repos have the primary branch named as 'main'
 # NEVER upload data to github
-# Keep commits simple. Commits are local and can be pushed all at once.
+# Keep commits simple. Commits are local and can be pushed all at once. 
