@@ -1,0 +1,2 @@
+#Dzhambazishvili Y. (1979). Lamellicorn beetles of Georgia. Insitute of Zoology, Academy of science in Georgian SSR. Metsniyereba. Tbilisi 275 pp. [In Russian].
+#Dzhambazishvili Y. (2000). Checklist of Scarabaeoidea of Goergia (Coleoptera: Scarabidae, Troginae, Geotrupinae, Hybosorinae, Ochodaeinae, Aphodiinae) Proceedings of the Institute Dzhambazishvili Y. 1979 of Zoology of Georgia, V XX, p 123-130. [In Russian].
