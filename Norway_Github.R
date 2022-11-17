@@ -18,9 +18,8 @@ use_github()# this copies the local repo to your main github profile
 git_default_branch_rename() # use this only the first time to change the 'master' branch to 'main' branch
 git_default_branch_configure(name = "main") # this will ensure all following repos have the primary branch named as 'main'
 # NEVER upload data to github
-
 # Keep commits simple. Commits are local and can be pushed all at once.
 # files >100MB are not committable to git
 # if something is screwed in the local repo, clone it and burn down the main repo. Not elegant, but works always
 # Branches help secure main code and allow you to experiment with the copied code (branch)
-
+# git branch -d new_test_branch Do this on terminal
