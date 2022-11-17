@@ -27,3 +27,7 @@ git_default_branch_configure(name = "main") # this will ensure all following rep
 # Forking repo from others to work on their code i.e., collaboration
 library(usethis)
 create_from_github("jaumeabb/Finse", fork=T, destdir = "C:/Users/imran/My Drive/Conferences_Presentations_Courses/Bergen 2022 Data Science/Course")
+
+# If you have deleted a file accidentally, don't commit your deletion!
+# Committed changes however can be uncommitted using undo last commit 'git reset HEAD-1', where 1 is the number fo commits (without pull)
+ 
