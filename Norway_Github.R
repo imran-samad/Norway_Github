@@ -13,7 +13,9 @@ git_vaccinate()# use this only once. This command creates a list of extensions t
 
 usethis::use_git()# initialises a Git repository and adds important files to .gitignore. If user consents, it also makes an initial commit.
 
-use_github()
+use_github()# this copies the local repo to your main github profile
 
 git_default_branch_rename() # use this only the first time to change the 'master' branch to 'main' branch
 git_default_branch_configure(name = "main") # this will ensure all following repos have the primary branch named as 'main'
+# NEVER upload data to github
+# Keep commits simple. Commits are local and can be pushed all at once.
