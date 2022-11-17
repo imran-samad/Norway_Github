@@ -6,6 +6,7 @@
 # nwniar::vis_miss: visualise missing data
 # pivot longer/wider: short vs long format like melt and dcast
 # stylr: to style code
+# lintr: to check consistency with tidyverse style
 # Hint: Keep various scripts in a project for different taasts
 
 #https://biostats-r.github.io/biostats/github/1_Git_Tutorial.html#connect-rstudio-and-github
@@ -46,3 +47,8 @@ create_from_github("jaumeabb/Finse", fork=T, destdir = "C:/Users/imran/My Drive/
 # targets package: pipelining tool useful for codes with large runtimes
 library(usethis)
 use_course("biostats-r/targets_workflow_svalbard", destdir = "C:/Users/imran/My Drive/Conferences_Presentations_Courses/Bergen 2022 Data Science/Course")
+
+# Tips and tricks for writing neat code
+create_from_github("DrMattG/LNOpenLab", fork=T, destdir = "C:/Users/imran/My Drive/Conferences_Presentations_Courses/Bergen 2022 Data Science/Course")
+
+# Best practices for reporting scientific results
